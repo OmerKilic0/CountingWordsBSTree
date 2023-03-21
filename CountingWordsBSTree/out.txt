@@ -1,0 +1,302 @@
+azuma: 2
+azzam: 7
+azucar: 1
+austria: 12
+australia: 182
+atpc: 22
+asx: 6
+ase: 1
+amex: 28
+bywater : 2
+bzw: 7
+bzw : 4
+bytes  : 1
+byron: 4
+byrd: 26
+byproducts   lead   refined: 1
+by: 13671
+burundi: 1
+burma: 4
+burkina faso: 1
+bulgaria: 5
+bse: 1
+biffex: 1
+czekierska  author : 1
+czekierska : 2
+czechoslovakia : 2
+czechoslovakia: 9
+cyprus: 13
+cuba: 30
+cse: 1
+comex: 51
+cme: 78
+cbt: 117
+cboe: 18
+dyson: 2
+dyneer: 3
+dynamically: 1
+dwindling : 2
+dwindling: 9
+dutt: 1
+dunkel: 2
+duisenberg: 4
+du plessis: 1
+douglas: 122
+dominguez: 5
+dhillon: 2
+dennis: 22
+deng xiaoping: 1
+dementsev: 2
+delors: 16
+delamuraz: 3
+del mazo: 1
+de larosiere: 1
+de la madrid: 1
+de korte: 1
+de kock: 1
+de clercq: 1
+dauster: 39
+dadzie: 2
+ez: 1
+eyskens : 4
+eyskens: 38
+evren: 2
+euratom: 8
+escap: 2
+emcf: 2
+eib: 1
+efta: 6
+ecwa: 1
+ecsc: 1
+ecla: 1
+ece: 1
+ecafe: 1
+eca: 1
+ec: 832
+fx series: 1
+fyodorov: 1
+futures options: 2
+futures: 1052
+fund: 680
+fujioka: 36
+fse: 1
+fox: 15
+gyrations : 1
+gyrations: 3
+gzb: 1
+gzipped: 1
+gypsum    : 1
+gypsum: 14
+guyana: 8
+guinea bissau: 1
+guinea: 14
+guillaume: 10
+grosz: 2
+gromyko: 2
+greenspan: 2
+graf: 4
+gostyev: 2
+goria: 9
+gorbachev: 17
+gonzalez: 20
+godeaux: 2
+geplacea: 6
+gcc: 21
+gatt: 158
+hytek s: 1
+hytek: 1
+hypothetical: 3
+hyundai: 11
+hypertension: 3
+hydropower: 1
+husbandry: 6
+husak: 2
+howard baker: 1
+hovmand: 2
+honecker: 1
+holkeri: 2
+holberg: 2
+hoffmeyer: 2
+hoefner: 2
+hkse: 1
+iwto: 1
+iws: 1
+iwcc: 1
+iwc wheat: 1
+iwc whale: 1
+itc: 1
+isa: 1
+irsg: 1
+ipe: 1
+jydisk: 1
+jwt: 3
+jute   rice   wheat   tea   sugarcane   potatoes   beef   milk   shortage : 1
+jute: 6
+junejo: 1
+juan: 23
+jse: 1
+kyushu s: 2
+kyushu: 6
+kyriakides : 1
+ky  : 25
+kuwait: 74
+kullberg: 4
+koren: 3
+kondo: 4
+koivisto: 5
+kohl: 37
+klse: 1
+klce: 1
+lzb : 3
+lyphomed s: 2
+lyphomed: 11
+lyonnais: 19
+lyon: 3
+lyng: 139
+lukman: 25
+lubbers: 2
+lse: 1
+lme: 78
+liffe: 5
+myung: 1
+mystified: 4
+mystery: 4
+mysterious: 1
+mutual: 96
+mustapha: 2
+murdoch: 7
+mulroney: 32
+mubarak: 5
+moyle: 3
+mousavi: 9
+mose: 1
+mnse: 1
+mise: 1
+mase: 2
+nzfe: 2
+nzdlr: 1
+nyse: 82
+nymex: 32
+nycsce: 1
+nyce: 1
+nasdaq: 111
+ozone : 2
+ozarka: 1
+ozark: 2
+ozal: 10
+ose: 1
+pyschological: 2
+pyongyang s: 1
+pyongyang : 2
+pylon: 2
+pyke : 1
+put: 580
+pursue: 77
+purposes: 59
+published: 166
+pse: 12
+qvc s: 3
+qutaiba : 2
+qwtr: 1
+qustion: 1
+quoting: 47
+quotes: 25
+quotation: 20
+qatar: 27
+qassemi: 2
+ryzhkov: 5
+russell: 14
+ruding: 22
+ruder: 2
+rubio: 8
+rowland: 4
+roumeliotis: 2
+romero: 16
+rojas: 2
+rikanovic: 6
+rich: 47
+riberio cadilhe: 1
+rezende: 2
+reagan: 764
+rafsanjani: 3
+rafnar: 2
+szekely  author : 1
+systems   locomotives: 1
+system: 1056
+syria: 13
+switzerland: 67
+sweden: 45
+swaziland: 1
+suriname: 1
+suominen: 3
+sumita: 75
+suharto: 18
+subroto: 40
+stse: 1
+sse: 1
+simex: 2
+set: 1256
+tyronne: 1
+tyrrell : 2
+tyres : 3
+typographical: 5
+type: 80
+twear   food: 1
+turnips   barley   potatoes   sugar: 1
+turkey: 82
+tunisia: 9
+tsovolas: 2
+tse: 9
+tose: 3
+uzbekistan    : 1
+utilisation: 18
+ussr: 91
+usa: 43
+us virgin islands: 1
+uruguay: 41
+unctad: 6
+un: 3
+vying: 1
+vulnerable : 4
+vs      n a : 6
+vs          : 25
+vs : 9
+vranitzky: 2
+von weizsaecker: 1
+volcker: 178
+vlatkovic: 2
+villanyi: 2
+verity: 2
+vera la rosa: 1
+venkataraman: 2
+vancsa: 2
+wysoglad : 1
+wyse: 4
+wyrough: 2
+wtc s: 1
+wtc: 9
+wyss: 10
+wrought: 4
+wpi: 1
+worldbank: 1
+who: 1336
+wce: 1
+xyv s on: 1
+xylogics: 1
+xuto: 26
+xtel: 3
+xl: 2
+xite   salt   quartz   tar: 1
+xiaoping: 5
+xiannian: 1
+yves: 3
+yutaka: 4
+yugoslavia: 64
+yu kuo hua: 1
+young: 49
+yeutter: 182
+zverev: 1
+zverev : 1
+zurich based: 1
+zurich: 18
+zse: 1
